@@ -12,6 +12,8 @@
     'license': 'AGPL-3',
     'depends': [
         'purchase',
+        'decorator_allowed_groups',
+        'module_a',
     ],
     'installable': True
 }
